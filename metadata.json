@@ -1,0 +1,5 @@
+{
+  "name": "SPMI UNUGHA Cilacap Portal",
+  "description": "A comprehensive quality assurance monitoring system for UNUGHA Cilacap, featuring audit workflows for 17 study programs, role-based access control, and visual reporting.",
+  "requestFramePermissions": []
+}
